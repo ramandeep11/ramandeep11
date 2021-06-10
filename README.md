@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ramandeep (@ramandeep11)
+- 👋 Hi, I’m Ramandeep( @ramandeep11 )
 - 👀 I’m interested in ML,AI ,CV and deep learning .
 - 🌱 I’m currently learning web dev(ie java,js,css,html,etc)
 - 💞️ I’m looking to collaborate ML projects in python or c/c++.
