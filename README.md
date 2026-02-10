@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ramandeep( @ramandeep11 )
-- I am a Backend Engineer with interests in LLM usecases for software Development
+- I am a Backend Engineer with interests Scalable Distributed Systems and LLM usecases for software Development
 - 📫 How to reach me ramandeep20012001@gmail.com
 
 <!---
